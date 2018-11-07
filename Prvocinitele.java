@@ -18,7 +18,9 @@ public class Prvocinitele {
 					System.out.printf(" %d", delitel);
 					cislo /= delitel;
 				}
-				delitel++;
+				else {
+					delitel++;
+				}
 			}
 			System.out.println();
 		}
