@@ -1,2 +1,3 @@
 # First-repository
 There are my first programs in Java.
+I am learning working with github...
